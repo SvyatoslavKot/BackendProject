@@ -1,0 +1,11 @@
+
+GET localhost:8082/api/v1/users/user
+Content-Type: application/json;charset=UTF-8
+Authorization: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0ZXN0Iiwicm9sZSI6IlVTRVIiLCJpYXQiOjE2ODU1MjYwMzUsImV4cCI6MTY4NjEzMDkxNX0.CtQV2uzKhGiPEpGfTegF-jtW3wQQtnjbriq4BsvzsTg
+
+{
+  }
+
+
+
+
